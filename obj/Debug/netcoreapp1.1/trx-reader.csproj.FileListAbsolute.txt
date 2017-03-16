@@ -1,0 +1,9 @@
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/trx-reader.deps.json
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/trx-reader.runtimeconfig.json
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/trx-reader.runtimeconfig.dev.json
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/trx-reader.dll
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/trx-reader.pdb
+/Users/aschrepfer/Dev/Pollux/trx-reader/obj/Debug/netcoreapp1.1/trx-reader.AssemblyInfo.cs
+/Users/aschrepfer/Dev/Pollux/trx-reader/obj/Debug/netcoreapp1.1/trx-reader.dll
+/Users/aschrepfer/Dev/Pollux/trx-reader/obj/Debug/netcoreapp1.1/trx-reader.pdb
+/Users/aschrepfer/Dev/Pollux/trx-reader/bin/Debug/netcoreapp1.1/testresults.trx
